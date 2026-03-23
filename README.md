@@ -21,8 +21,6 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) on t
 
 
 ## Models Applied
-
-* Linear Regression
 * This project focuses on:
 
   * Data Cleaning
